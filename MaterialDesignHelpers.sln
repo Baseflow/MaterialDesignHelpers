@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialDesignHelpers", "MaterialDesignHelpers\MaterialDesignHelpers.csproj", "{20046144-B843-4C7D-9E83-C250357BB051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{DE726589-D5FA-4F4A-AA0B-433A71BA2FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20046144-B843-4C7D-9E83-C250357BB051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20046144-B843-4C7D-9E83-C250357BB051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20046144-B843-4C7D-9E83-C250357BB051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20046144-B843-4C7D-9E83-C250357BB051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE726589-D5FA-4F4A-AA0B-433A71BA2FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE726589-D5FA-4F4A-AA0B-433A71BA2FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE726589-D5FA-4F4A-AA0B-433A71BA2FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE726589-D5FA-4F4A-AA0B-433A71BA2FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

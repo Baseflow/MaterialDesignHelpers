@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Xam.Plugins.Android.MaterialDesignHelpers</id>
+        <version>1.2.0</version>
+        <title>MaterialDesignHelpers for Xamarin.Android</title>
+        <authors>Martijn van Dijk</authors>
+        <owners>Martijn van Dijk</owners>
+        <licenseUrl>https://github.com/martijn00/MaterialDesignHelpers/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/martijn00/MaterialDesignHelpers</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/martijn00/MaterialDesignHelpers/master/icon_materialdesignhelpers.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library</description>
+        <summary>MaterialDesignHelpers for Xamarin.Android</summary>
+        <tags>xamarin, monodroid, C#, xamarin.android, android, Material, Design, Helpers</tags>
+        <dependencies>
+            <group targetFramework="MonoAndroid0.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\MaterialDesignHelpers\bin\Release\MaterialDesignHelpers.dll" target="lib\MonoAndroid\MaterialDesignHelpers.dll" />
+    </files>
+</package>
